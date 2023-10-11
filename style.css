@@ -1,0 +1,30 @@
+
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(154, 134, 134);
+
+}
+
+a:hover{
+    color: black;
+    cursor: pointer;
+}
+
+h1{
+    text-align: center;
+}
+ a{
+    color: white;
+ }
+
+
+header{
+    background-color: gray;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 800;
+}
